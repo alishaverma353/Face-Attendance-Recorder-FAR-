@@ -1,5 +1,5 @@
 
-#**Face Attendance Recorder(FAR)**
+# **Face Recognition Attendance System**
 
 **Table of Contents**
 
