@@ -2,23 +2,37 @@
 **Face Attendance Recorder(FAR)**
 
 **Table of Contents**
+
 1.About
+
 2.Features
+
 3.Technologies
+
 4.Installation
+
 5.Usage
+
 6.Dataset
+
 7.Results
 
 
+
 **About**
+
 The Face Recognition Attendance System is a real-time application that leverages facial recognition technology to automate the attendance logging process. This system captures faces using a webcam, recognizes them against a set of known faces, and logs attendance into a CSV file.
 
 **Features**
+
 Real-time Face Recognition: Detects and recognizes faces from a live webcam feed.
+
 Automated Attendance Logging: Records attendance automatically in a CSV file.
+
 Scalable: Supports multiple users and can easily add new faces to the database.
+
 User-Friendly Interface: Displays recognized names in the video feed.
+
 
 **Technologies**
 
@@ -68,13 +82,17 @@ When a recognized face is detected, the system will log the name and the current
 Press 'q' to stop the webcam feed and exit the application.
 
 **Dataset**
+
 The application requires a folder named imagesattendance containing images of individuals to recognize. The images should be clear and preferably contain the person's face without obstructions.
 
 **Results**
+
 The attendance is logged in the Attendance.csv file with the following format:
 
 Name	Timestamp
+
 Elon Musk	12:30:45
+
 Jane Doe	12:31:10
 
 
