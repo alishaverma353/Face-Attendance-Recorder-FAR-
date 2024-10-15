@@ -21,15 +21,21 @@ Scalable: Supports multiple users and can easily add new faces to the database.
 User-Friendly Interface: Displays recognized names in the video feed.
 
 **Technologies**
+
 This project is built using:
 
-Python: Main programming language.
-OpenCV: For video capture and image processing.
-face_recognition: For facial recognition and encoding.
-NumPy: For numerical operations and array manipulations.
-Pandas: (optional) For more advanced data handling if needed.
+1.Python: Main programming language.
+
+2.OpenCV: For video capture and image processing.
+
+3.face_recognition: For facial recognition and encoding.
+
+4.NumPy: For numerical operations and array manipulations.
+
+5.Pandas: (optional) For more advanced data handling if needed.
 
 **Installation**
+
 1.Clone the repository:
 
 bash
@@ -46,6 +52,7 @@ cd face-recognition-attendance
 Place images of individuals you want to recognize in the imagesattendance directory. The filenames should reflect the names of the individuals (e.g., elon musk.png).
 
 **Usage**
+
 1.Run the Attendance System
 
 2.Open the Webcam
