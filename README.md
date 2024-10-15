@@ -44,8 +44,10 @@ cd face-recognition-attendance
 **Prepare your images:**
 
 Place images of individuals you want to recognize in the imagesattendance directory. The filenames should reflect the names of the individuals (e.g., elon musk.png).
+
 **Usage**
 1.Run the Attendance System
+
 2.Open the Webcam
 
 The application will open your webcam, display the video feed, and attempt to recognize faces in real-time.
@@ -58,10 +60,10 @@ When a recognized face is detected, the system will log the name and the current
 
 Press 'q' to stop the webcam feed and exit the application.
 
-5.Dataset
+**Dataset**
 The application requires a folder named imagesattendance containing images of individuals to recognize. The images should be clear and preferably contain the person's face without obstructions.
 
-6.Results
+**Results**
 The attendance is logged in the Attendance.csv file with the following format:
 
 Name	Timestamp
