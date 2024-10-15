@@ -1,5 +1,5 @@
 
-**Face Attendance Recorder(FAR)**
+#Face Attendance Recorder(FAR)
 
 **Table of Contents**
 
@@ -51,11 +51,6 @@ This project is built using:
 **Installation**
 
 1.Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/alishaverma353/face-recognition-attendance.git
-cd face-recognition-attendance
 
 2.Create a virtual environment and activate it.
 
