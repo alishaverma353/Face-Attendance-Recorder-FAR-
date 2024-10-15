@@ -1,5 +1,5 @@
 
-#Face Attendance Recorder(FAR)
+#**Face Attendance Recorder(FAR)**
 
 **Table of Contents**
 
